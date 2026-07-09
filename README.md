@@ -138,16 +138,12 @@ This makes the captured traffic easy to review or analyze later using spreadshee
 
 ##  Screenshots
 
-Add screenshots inside the **screenshots** folder after uploading the project.
+<img width="1002" height="642" alt="analyzer_code" src="https://github.com/user-attachments/assets/29db3cf1-5d39-4909-9d8a-420b453dffe0" />
+<img width="722" height="638" alt="packet_log" src="https://github.com/user-attachments/assets/ec1c8be0-d0a9-4894-93f0-974b68f4c205" />
+<img width="286" height="521" alt="project_structure" src="https://github.com/user-attachments/assets/85428ee6-f122-40cd-9a48-34ecc3e3def0" />
+<img width="783" height="369" alt="running_program" src="https://github.com/user-attachments/assets/e7fbb1a6-f2c0-4dd7-82f6-98fdc891e901" />
 
-Recommended screenshots:
 
-- Project Structure
-- Running Packet Analyzer
-- CSV Log File
-- Source Code
-
----
 
 ##  Skills Demonstrated
 
